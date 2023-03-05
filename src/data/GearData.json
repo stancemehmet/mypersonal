@@ -1,0 +1,83 @@
+{
+  "gearType": [
+    {
+      "gear": "Hardware / Computers",
+      "gearList": [
+        {
+          "item": "Ryzen 7 6800H, 16GB of RAM, RTX 3050Tİ, 512GB SSD",
+          "desc": "",
+          "type": ["computer"]
+        },
+        {
+          "item": "Zalman ZM-K300M",
+          "desc": "",
+          "type": ["keyboard"]
+        },
+        {
+          "item": "XPG M20",
+          "desc": "",
+          "type": ["mouse"]
+        }
+      ]
+    },
+    {
+      "gear": "Monitor",
+      "gearList": [
+        {
+          "item": "Acer 24\"  VG240 144Hz FHD",
+          "desc": "",
+          "type": ["monitor", "external display"]
+        }
+      ]
+    },
+    {
+      "gear": "Hardware / Audio",
+      "gearList": [
+        {
+          "item": "Rampage RM-K3 7.1",
+          "desc": "",
+          "type": ["headphone"]
+        },
+        {
+          "item": "Qcy T13 Bluetooth",
+          "desc": "",
+          "type": ["headset", "earphone"]
+        }
+      ]
+    },
+    {
+      "gear": "Software",
+      "gearList": [
+        {
+          "item": "Visual Studio Code",
+          "desc": "",
+          "type": ["IDE"]
+        },
+        {
+          "item": "Adobe Illustrator",
+          "desc": "",
+          "type": ["logo design"]
+        },
+        {
+          "item": "Adobe Photoshop",
+          "desc": "",
+          "type": ["graphic"]
+        },
+        {
+          "item": "Figma",
+          "desc": "",
+          "type": ["web design"]
+        }
+      ]
+    },
+    {
+      "gear": "Hosting",
+      "gearList": [
+        {
+          "item": "Heroku,Netlify,Vercel",
+          "desc": "Very nice platform to directly deploy all my app.js apps."
+        }
+      ]
+    }
+  ]
+}
