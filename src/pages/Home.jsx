@@ -81,7 +81,7 @@ export default function Home() {
             </p>
             <p>
               <span className="text-[#4D5BCE]">const</span>{" "}
-              <span className="text-[#43D9AD]">githubLink</span>{" "}
+              <span className="text-[#43D9AD]">linkedinLink</span>{" "}
               <span className="text-white">=</span>{" "}
               <a
                 href="https://www.linkedin.com/in/contactmehmetcetin/"
