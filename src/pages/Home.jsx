@@ -77,14 +77,14 @@ export default function Home() {
 
           <div className="flex flex-col gap-2.5">
             <p className="text-[#607B96]">
-              // you can also see it on my Github page
+              // you can also see it on my Linkedin page
             </p>
             <p>
               <span className="text-[#4D5BCE]">const</span>{" "}
               <span className="text-[#43D9AD]">githubLink</span>{" "}
               <span className="text-white">=</span>{" "}
               <a
-                href="https://github.com/stancemehmet"
+                href="https://www.linkedin.com/in/contactmehmetcetin/"
                 className="text-[#E99287]"
                 target="_blank"
                 rel="noreferrer"
