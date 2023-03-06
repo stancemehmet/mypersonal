@@ -89,7 +89,7 @@ export default function Home() {
                 target="_blank"
                 rel="noreferrer"
               >
-                "https://github.com/stancemehmet"
+                "https://linkedin.com/stancemehmet"
               </a>
             </p>
           </div>
